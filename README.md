@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Data+Analyst;Creating+Interactive+Dashboards;Analyzing+Data+for+Better+Business+Decisions" />
-</p>
+<h1 align="center">
+  <span style="color:white;">Hi, I'm </span>
+  <span style="color:#ff4da6;">Akansha Shrivastava</span> 👋
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=950&lines=Transforming+Raw+Data+into+Interactive+Dashboards;Data+Analyst+%7C+Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Creating+Meaningful+Insights+from+Data" alt="Typing SVG" />
+</h3>
 ## 📊 Data Analyst
 
 Passionate about transforming raw data into meaningful insights using Excel, SQL, Python, Power BI, and Tableau.
