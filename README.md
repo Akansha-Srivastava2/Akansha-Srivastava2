@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=800&lines=Data+Analyst+%7C+Excel+%7C+SQL+%7C+Python+%7C+Power+BI;Transforming+Raw+Data+into+Meaningful+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Data+Analyst;Creating+Interactive+Dashboards;Analyzing+Data+for+Better+Business+Decisions" />
 </p>
 ## 📊 Data Analyst
 
