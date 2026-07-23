@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋, I'm Akansha Shrivastava
 
-<!--
-**Akansha-Srivastava2/Akansha-Srivastava2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst
 
-Here are some ideas to get you started:
+Passionate about transforming raw data into meaningful insights using Excel, SQL, Python, Power BI, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 📊 Data Analyst
+- 💼 Process Associate at Genpact
+- 🌱 Learning Advanced SQL & Power BI
+- 📍 Noida, India
+
+---
+
+## 🛠️ Skills
+
+- Excel
+- SQL
+- Python
+- Power BI
+- Tableau
+- MySQL
+- Pandas
+
+---
+
+## 📂 Featured Projects
+
+- 📈 Myntra Sales Dashboard
+- 📊 Customer Service Dashboard
+- 💰 Financial Dashboard
+- 📦 Order Fulfillment Dashboard
+- 🍔 Swiggy SQL Analysis
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn
+
+GitHub
+
+Email
