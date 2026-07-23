@@ -1,4 +1,4 @@
-# Hi 👋, I'm Akansha Shrivastava
+<h1 align="center">Turning Data into Actionable Insights 📈</h1>
 
 ## 📊 Data Analyst
 
