@@ -53,6 +53,10 @@ Monitored order fulfillment, product-wise revenue, and order trends through dyna
 🔹 **🍔 Swiggy SQL Analysis**  
 Performed SQL-based business analysis using joins, window functions, CTEs, and aggregate queries to generate actionable insights.
 
+### 🌟 GitHub Stats
+![Akansha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akansha-Srivastava2&show_icons=true&theme=radical)
+
+
 ---
 
 ## 📫 Connect With Me
